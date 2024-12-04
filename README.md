@@ -1,4 +1,4 @@
-🎉 **Hi there, you've arrived at @riyaadhbukhsh!** 🎉
+## 🎉 **Hi there, you've arrived at @riyaadhbukhsh!** 🎉
 
 - 📊 A Data Science and Mathematics student at the University of California, Davis  
 - 🤖 Passionate about building AI agents, automation, and scalable software  
